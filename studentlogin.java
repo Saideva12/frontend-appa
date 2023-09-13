@@ -13,7 +13,6 @@ public void run() {
     if (inpUser.equals(user) && inpPass.equals(pass)) {
         System.out.print("your login message");
     } else {
-        System.out.print("your error message");
-   }
+        System.out.print("youre");i  }
 }
 }
